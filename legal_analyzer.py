@@ -8,10 +8,11 @@ from modelscope import AutoModelForCausalLM, AutoTokenizer
 from transformers import AutoTokenizer,AutoModelForCausalLM
 from modelscope import snapshot_download
 import numpy as np
+from transformers.models.qwen2_5_omni.configuration_qwen2_5_omni import Qwen2_5OmniConfig
 
 
 class EnglishContractAnalyzer:
-    def __init__(self, model_name="qwen/Qwen-7B"):
+    def __init__(self, model_name="Qwen/Qwen2.5-Omni-7B"):
         self.model_name = model_name
         self.model, self.tokenizer = self.load_model()
         self.supported_formats = ['.pdf', '.docx', '.doc', '.txt']
@@ -384,5 +385,5 @@ if __name__ == "__main__":
     demo.launch(
         server_name="0.0.0.0",
         server_port=7860,
-        share=False
+        share=True
     )
