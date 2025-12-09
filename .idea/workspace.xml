@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="752cf409-7150-4f89-b7ce-10636c508652" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/legal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/legal.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +107,7 @@
       <updated>1764826885330</updated>
       <workItem from="1764826886344" duration="4000" />
       <workItem from="1764839920572" duration="4384000" />
-      <workItem from="1765167336747" duration="12158000" />
+      <workItem from="1765167336747" duration="14632000" />
     </task>
     <servers />
   </component>
@@ -117,7 +115,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/legal$legal_analyzer.coverage" NAME="legal_analyzer Coverage Results" MODIFIED="1765243814731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/legal$legal_analyzer.coverage" NAME="legal_analyzer Coverage Results" MODIFIED="1765248305780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/legal$app.coverage" NAME="app Coverage Results" MODIFIED="1764840734192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
